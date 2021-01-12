@@ -8,5 +8,5 @@ cask "septa" do
   desc "septa command line tool."
   homepage "https://github.com/dherbst/septa"
 
-  binary "septa.zip"
+  binary "septa"
 end
